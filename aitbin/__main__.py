@@ -4,4 +4,4 @@ def main():
   while True:
     print(Fore.WHITE+"010",end="")
     print(Fore.GREEN+"101",end="")
-    sleep(0.01)
+    time.sleep(0.01)
