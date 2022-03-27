@@ -1,15 +1,15 @@
 from setuptools import setup
 
 setup(
-    name = "aitbin",
+    name = "binboy",
     version = "0.1.0",
     description = "A beautiful binary code printer",
     author = "AitzazImtiaz",
     url = "https://github.com/AitzazImtiaz/aitbin",
-    packages = ["aitbin"],
+    packages = ["binboy"],
     entry_points = {
         'console_scripts': [
-            'aitbin = aitbin.__main__:main'
+            'binboy = binboy.__main__:main'
         ]
     },
 )
