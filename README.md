@@ -1,4 +1,4 @@
-# AitBin
+# Bin Boy
 Print binary numbers in a hacking style.
 # Built by Aitzaz Imtiaz
 # Instructions
